@@ -1,0 +1,39 @@
+{
+  "name": "pro1",
+  "version": "1.0.0",
+  "description": "Social Network Platform For Developers",
+  "main": "server,js",
+  "scripts": {
+    "start": "node server",
+    "server": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santhakumar-kanakala/pro1.git"
+  },
+  "keywords": [
+    "social",
+    "network",
+    "platform"
+  ],
+  "author": "BEASTMAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santhakumar-kanakala/pro1/issues"
+  },
+  "homepage": "https://github.com/santhakumar-kanakala/pro1#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.8",
+    "express": "^4.18.2",
+    "express-validator": "^6.14.2",
+    "gravatar": "^1.8.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.6.7",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "concurrently": "^7.5.0",
+    "nodemon": "^2.0.20"
+  }
+}
