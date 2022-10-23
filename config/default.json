@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://beastman:beastman@cluster0.qrufdov.mongodb.net/?retryWrites=true&w=majority"
+}
